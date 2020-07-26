@@ -1,0 +1,19 @@
+ .container {
+  text-align: center;
+    background: #833ab4;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #5e77bb, #da8080, #833ab4);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #d3cbc0, #dd77af, #a663d3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  }
+  .form-group{
+    background: #290433;  /* fallback for old browsers */
+    color: white;
+     }
+     .head{
+      background: #290433;  /* fallback for old browsers */
+      color: white;
+       }
+     .all{
+      text-align: center;
+       }
+
+     
